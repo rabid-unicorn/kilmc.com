@@ -1,0 +1,10 @@
+---
+title: test
+date: 2016-10-27 06:16:00 Z
+Field name:
+  IMAGE: "/uploads/DRAXLER_SWAVEY.jpg"
+  image: "/uploads/DRAXLER_MODERNUTILITY.jpg"
+layout: default
+---
+
+gmxfchgv
