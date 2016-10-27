@@ -1,10 +1,8 @@
 ---
 title: test
 date: 2016-10-27 06:16:00 Z
-Field name:
-  IMAGE: "/uploads/DRAXLER_SWAVEY.jpg"
-  image: "/uploads/DRAXLER_MODERNUTILITY.jpg"
+Field name: 
 layout: default
 ---
 
-gmxfchgv
+# ![DRAXLER_SEAPUNK.jpg](/uploads/DRAXLER_SEAPUNK.jpg)gmxfchgv
